@@ -16,7 +16,7 @@ class A
 			cout<<"\n a="<<a<<"\tb"<<b;
 		}
 };
-int A::b; 
+int A::b; //we can also intilize b=10
 void main()
 {
 	A a1,a2,a3;
