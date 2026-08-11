@@ -16,7 +16,7 @@ class A
 			cout<<"\n a="<<a<<"\tb"<<b;
 		}
 };
-class A::b;
+int A::b; 
 void main()
 {
 	A a1,a2,a3;
