@@ -54,8 +54,7 @@ void cal(DB a, DM b)
 
     cout << "\nTotal = " << total_cm << " cm";
 }
-
-int main()
+void main()
 {
     DB ca1;
     DM ca2;
